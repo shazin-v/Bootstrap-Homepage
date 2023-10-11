@@ -1,2 +1,2 @@
-# Homepage
+# Sample Bootstrap Homepage
  
